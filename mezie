@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chimezie Nnabuihe - Professional Video Editor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .skills {
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Chimezie Nnabuihe</h1>
+    <div class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Professional Video Editing</li>
+            <li>Adobe Premiere Pro</li>
+            <li>Adobe After Effects</li>
+            <li>Adobe Photoshop</li>
+        </ul>
+    </div>
+    <p>Thank you for visiting my personal webpage. I am a professional video editor with expertise in using Adobe Premiere Pro, After Effects, and Photoshop. I am passionate about creating visually stunning and engaging video content.</p>
+    <p>If you have any inquiries or would like to collaborate, feel free to contact me at chimezie@example.com.</p>
+</div>
+
+</body>
+</html>
